@@ -11,7 +11,7 @@
   "author": "Virtual code",
   "license": "ISC",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
